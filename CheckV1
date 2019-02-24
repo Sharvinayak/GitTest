@@ -1,4 +1,5 @@
 new branch changes done by vinayak"
+<<<<<<< HEAD
 commit 1 in master
 commit 2 in master
 commit 3 in master
@@ -7,3 +8,7 @@ commit 3 in master
 
 commit 4 in master
 
+=======
+first commit
+second commit on branch vinaak1
+>>>>>>> vinayak1
