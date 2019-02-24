@@ -5,6 +5,7 @@ commit 2 in master
 commit 3 in master
 
 
+<<<<<<< HEAD
 
 commit 4 in master
 
@@ -12,3 +13,7 @@ commit 4 in master
 first commit
 second commit on branch vinaak1
 >>>>>>> vinayak1
+=======
+commit 1 in new b vinayak2
+commit 2 in new b vinayak2
+>>>>>>> vinayak2
